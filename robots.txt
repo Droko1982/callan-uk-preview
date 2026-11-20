@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Preview build: every page carries <meta name="robots" content="noindex">.

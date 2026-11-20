@@ -1,0 +1,8 @@
+# Friendly short links (Cloudflare Pages). Old URLs (/about, /courses, /levels, /testimonials, /contactus, /test)
+# keep working as they are; *.html versions redirect to the clean URL automatically.
+/contact       /contactus     301
+/reviews       /testimonials  301
+/book          /free-trial    301
+/trial         /free-trial    301
+/prices        /courses       301
+/level-test    /test          301
